@@ -4,7 +4,7 @@
 
 ## Contact info:
 * Locatoin: Yuzno-Sakhalinsk, Russia
-* E-mail: antiomka@gmail.com1
+* E-mail: antiomka@gmail.com
 * Telegram: @Omka05 
 * Discord: omka#6962
 * gtihub: https://github.com/omkavtanke

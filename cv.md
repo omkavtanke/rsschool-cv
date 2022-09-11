@@ -13,11 +13,11 @@
 My goal is to become one of the best programmers in the world. I love to learn something new and I constantly want to evolve, I have no experience, I'm just starting my journey in this field, I am currently studying in college
 My motto and motivation is to get better every day and never give up 
 ## Skils
-* __HTML__ (Basic)
-* __CSS/SASS__ (Basic)
-* __JavaScript__ (Basic in process)
+* __HTML__
+* __CSS/SCSS__
+* __JavaScript__ (Basic)
 * __Git/GitHub__ (Basic)
-* __Photoshop__ (Basic)
+* __Figma__ (Basic)
 ## Code example
 ```
 function thirdNumber(anyNumber) {
@@ -32,7 +32,8 @@ console.log(thirdNumber(114));
 ## Education
 * Moscow City Open College
 	+ Information systems and programming   (in process...)
-* RS School Javascript/Front-end 2022Q1    (in process...)
+* RS School Javascript/Front-end 2022Q1
+* RS School Javascript/Front-end 2022Q3    (in process...)
 ## Languages
 * Russian ( native )
 * English (A2 in process...)
